@@ -1,2 +1,2 @@
-Ilove [wikipedia](htpps://ja.wikipedia.org)!
+I love [wikipedia](htpps://ja.wikipedia.org)!
 
