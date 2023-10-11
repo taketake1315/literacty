@@ -1,2 +1,2 @@
-Ilove [wikipedia](URL)!
+Ilove [wikipedia](htppts://ja.wikipedia.org)!
 
